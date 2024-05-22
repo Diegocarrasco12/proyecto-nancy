@@ -41,6 +41,7 @@ body {
   border-radius: 5px;
   transition: background-color 0.2s ease-in;
   }
+
   
   @media (max-width: 768px) {
     #Contacto form label {
